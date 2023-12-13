@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfredo Alberruche</h1>
 <h3 align="center">I'm an Spanish junior frontend student/dev. I also work as media creator, voiceover and beatmaker in my freetime.</h3>
 
-- 🔭 I’m currently working on [TECSINTON](https://www.tiktok.com/@tecsinton)
+- 🔭 I’m currently working on [TECSINTON](https://www.tiktok.com/@tecsinton) & [FIVERR]([https://www.tiktok.com/@tecsinton](https://www.fiverr.com/alfredoah/record-your-professional-voiceover-in-neutral-spanish))
 
 - 🌱 I’m currently learning **HTML, SCSS, JavaScript & PHP**
 
