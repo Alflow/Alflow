@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TECSINTON](https://www.tiktok.com/@tecsinton)
 
-- 🌱 I’m currently learning **HTML, SCSS, JavaScript**
+- 🌱 I’m currently learning **HTML, SCSS, JavaScript & PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
