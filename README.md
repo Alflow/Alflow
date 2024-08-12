@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alfredo Alberruche</h1>
-<h3 align="center">I'm an Spanish junior frontend student/dev. I also work as media creator, voiceover and beatmaker in my freetime.</h3>
+<h3 align="center">I'm a Spanish junior frontend developer, passionate about UI/UX design, layout, and open-source libraries. I also work as a media creator, voiceover artist, and beatmaker in my free time.</h3>
 
-- 🔭 I Made [TECSINTON](https://www.tiktok.com/@tecsinton) & sometimes I do Voiceovers in [FIVERR](https://www.tiktok.com/@tecsinton](https://www.fiverr.com/alfredoah/record-your-professional-voiceover-in-neutral-spanish )
+- 🔭 I created [TECSINTON](https://www.tiktok.com/@tecsinton) & sometimes do Voiceovers on [Fiverr](https://www.fiverr.com/alfredoah/record-your-professional-voiceover-in-neutral-spanish).
 
-- 🌱 I’m currently learning **HTML, SCSS, JavaScript & PHP**
+- 💻 I’m deeply passionate about **frontend development**, especially **UI/UX development** and **layout creation** using tools like **Tailwind, SCSS, Less, Bootstrap, and jQuery**. I love working with **open-source libraries** and enjoy building dynamic web applications with **React**.
+
+- 🌱 On the backend side, I have experience with **PHP** (vanilla with SQL Server) and **Node.js** (with Express & MySql). And I am eager to dive into **Laravel** as I continue to expand my skills.
+
+- 🚀 My goal is to continue growing as a full-stack developer, combining my love for frontend and backend technologies to create seamless and engaging web experiences.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
