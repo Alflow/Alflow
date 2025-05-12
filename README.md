@@ -3,7 +3,8 @@
 
 - 🔭 I created [TECSINTON](https://www.tiktok.com/@tecsinton) & sometimes do Voiceovers on [Fiverr](https://www.fiverr.com/alfredoah/record-your-professional-voiceover-in-neutral-spanish).
 
-- 💻 I’m deeply passionate about **frontend development**, especially **UI/UX development** and **layout creation** using tools like **Tailwind, SCSS, Less, Bootstrap, and jQuery**. I love working with **open-source libraries** and enjoy building dynamic web applications with **React**.
+- 💻 I’m deeply passionate about **frontend development**, especially **UI/UX development** and **layout creation** using tools like **Tailwind, SCSS, Less, Bootstrap, and jQuery**.
+- I love working with **open-source libraries** and enjoy building dynamic web applications with **React**, **Astro** & **Wordpress**
 
 - 🌱 On the backend side, I have experience with **PHP** (vanilla with SQL Server) and **Node.js** (with Express & MySql). And I am eager to dive into **Laravel** as I continue to expand my skills.
 
